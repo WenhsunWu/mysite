@@ -26,10 +26,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_includes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wenxu\Documents\GitHub\mysite" />
       <recent name="C:\Users\wenxu\Documents\GitHub\mysite\_includes" />
     </key>
   </component>
@@ -43,11 +44,17 @@
       <option name="presentableId" value="Default" />
       <updated>1600209668947</updated>
       <workItem from="1600209670396" duration="622000" />
-      <workItem from="1600210312702" duration="738000" />
+      <workItem from="1600210312702" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600211452294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600211452294" />
   </component>
 </project>
